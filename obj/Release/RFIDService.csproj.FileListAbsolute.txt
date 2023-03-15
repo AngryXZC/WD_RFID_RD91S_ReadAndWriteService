@@ -1,0 +1,13 @@
+D:\Users\Administrator\Documents\C#Test\RFIDService_test\bin\Release\RFIDService.exe.config
+D:\Users\Administrator\Documents\C#Test\RFIDService_test\bin\Release\RFIDService.exe
+D:\Users\Administrator\Documents\C#Test\RFIDService_test\bin\Release\RFIDService.pdb
+D:\Users\Administrator\Documents\C#Test\RFIDService_test\bin\Release\LitJson.dll
+D:\Users\Administrator\Documents\C#Test\RFIDService_test\bin\Release\Reader.dll
+D:\Users\Administrator\Documents\C#Test\RFIDService_test\obj\Release\RFIDService.csproj.SuggestedBindingRedirects.cache
+D:\Users\Administrator\Documents\C#Test\RFIDService_test\obj\Release\RFIDService.Form1.resources
+D:\Users\Administrator\Documents\C#Test\RFIDService_test\obj\Release\RFIDService.Properties.Resources.resources
+D:\Users\Administrator\Documents\C#Test\RFIDService_test\obj\Release\RFIDService.csproj.GenerateResource.cache
+D:\Users\Administrator\Documents\C#Test\RFIDService_test\obj\Release\RFIDService.csproj.CoreCompileInputs.cache
+D:\Users\Administrator\Documents\C#Test\RFIDService_test\obj\Release\RFIDService.csproj.CopyComplete
+D:\Users\Administrator\Documents\C#Test\RFIDService_test\obj\Release\RFIDService.exe
+D:\Users\Administrator\Documents\C#Test\RFIDService_test\obj\Release\RFIDService.pdb
